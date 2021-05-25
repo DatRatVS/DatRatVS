@@ -1,8 +1,12 @@
-### h
+### Hi 👋
 
 Currently a Mediocre Java "Developer"
 
+This is a Discord that i am one of the founders:
+[![Discord](https://discordapp.com/api/guilds/689492899389505650/widget.png)](  https://discord.gg/XpTWUy72Cq)
+
 And i love this video:
+
 ![h](https://user-images.githubusercontent.com/49768896/119433568-e11cd900-bcec-11eb-9015-aea05932d6b7.mp4)
 
 <!--

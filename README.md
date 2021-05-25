@@ -1,11 +1,9 @@
 ### h
 
-Currently a ![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%232b7489&message=Java%EF%B8%B161.3%25) Java Mediocre "Developer"
+Currently a Mediocre Java "Developer"
 
-
-
-
-
+And i love this video:
+https://user-images.githubusercontent.com/49768896/119433568-e11cd900-bcec-11eb-9015-aea05932d6b7.mp4
 
 <!--
 **DatRatVS/DatRatVS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

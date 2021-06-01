@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Being good at this.**
 
-- [![Discord](https://discordapp.com/api/guilds/689492899389505650/widget.png)](https://discord.gg/XpTWUy72Cq)
+- Code's Moon Technologies: [![Discord](https://discordapp.com/api/guilds/689492899389505650/widget.png)](https://discord.gg/XpTWUy72Cq)
 
 - I like this video: [![h](https://media.discordapp.net/attachments/657560080023289887/849387748011933766/download16x16.png)](https://user-images.githubusercontent.com/49768896/119433568-e11cd900-bcec-11eb-9015-aea05932d6b7.mp4)
 

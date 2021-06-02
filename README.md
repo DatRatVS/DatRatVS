@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DatRat</h1>
 <h3 align="center">Currently a Mediocre Java "Developer"</h3>
 
-- 🔭 I’m currently working on **Being good at this.**
+- 🔭 I’m currently working on **App-Ideas**
 
 - Code's Moon Technologies: [![Discord](https://discordapp.com/api/guilds/689492899389505650/widget.png)](https://discord.gg/XpTWUy72Cq)
 
